@@ -1,0 +1,92 @@
+/* Heading Styling */
+.body{
+    padding: 15px;
+    text-align: center;
+    font-style:normal;
+    font-family:cursive;
+    color:teal;
+    background-color: bisque;
+    display:block;
+         margin-left:auto;
+         margin-right:auto;
+         width:50%;
+         height:fit-content;
+}
+.header {
+    padding: 15px;
+    text-align: center;
+    font-style:normal;
+    font-family:cursive;
+    color:teal;
+    background-color: bisque;
+    display:block;
+         margin-left:auto;
+         margin-right:auto;
+         width:50%;
+         height:fit-content;
+}
+/* Page Background */
+body {
+    background-color:peachpuff
+}
+/* Date Styling */
+h2 {
+    text-align: center;
+    font-style:normal;
+    font-family:cursive;
+    color:teal;
+    background-color: bisque;
+    
+
+}
+/* Image Styling */
+.cake {
+    display:block;
+         margin-left:auto;
+         margin-right:auto;
+         width:50%;
+         height:fit-content;
+
+}
+/* List Item Styling */
+.list {
+    text-align: center;
+    list-style-position: outside;
+    font-style:normal;
+    font-family:cursive;
+    color:teal;
+    display:block;
+    border-spacing: 5px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 92.35%;
+    background-color: bisque;
+  
+}
+    /* H3 Headings */
+ h3 {
+    text-align:center;
+    font-style:normal;
+    font-family:cursive;
+    color:teal;
+    background-color: bisque;
+    border-spacing: 5px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 92.35%;
+ }    
+/* Location Styling */
+ .link{
+    text-align:center;
+    font-style:normal;
+    font-family:cursive;
+    display:block;
+    background-color: bisque;
+    border-spacing: 5px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 92.35%;
+ }
